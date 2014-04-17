@@ -42,7 +42,7 @@ MyPicture* starPic;
 //SOUNDS
 MySound* laserEffect;
 MySound* explosion;
-//MySound* Theme;
+MySound* Theme;
 
 
 //Invaders
@@ -89,8 +89,8 @@ ErrorType GameInit(bool bFullScreen)
 	//asteroids = new CAsteroids(10,1, 0);
 	//asteroids->Init(asteroidPic);
 	
-	//Theme = new MySound();
-	//Theme->LoadWave("   ");
+	Theme = new MySound();
+	Theme->LoadWave("Sounds\\themewav.wav");
 
 
 	laserEffect = new MySound();
@@ -101,6 +101,13 @@ ErrorType GameInit(bool bFullScreen)
 
 	starPic = new MyPicture;
 	starPic->LoadBitmapA("Images\\star.bmp");
+
+
+	Theme->Play();
+
+
+
+
 
 
 	invaderPic = new MyPicture;
