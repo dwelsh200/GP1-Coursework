@@ -1,0 +1,17 @@
+﻿Build started 17/04/2014 17:23:03.
+     1>Project "C:\Users\David Welsh\Desktop\DavidGP1UNI version4\DavidGP1UNI\DavidGP1UNI\DavidGP1UNI.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\DavidGP1UNI.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         DavidGP1UNI.vcxproj -> C:\Users\David Welsh\Desktop\DavidGP1UNI version4\DavidGP1UNI\Debug\DavidGP1UNI.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\DavidGP1UNI.unsuccessfulbuild".
+         Touching "Debug\DavidGP1UNI.lastbuildstate".
+     1>Done Building Project "C:\Users\David Welsh\Desktop\DavidGP1UNI version4\DavidGP1UNI\DavidGP1UNI\DavidGP1UNI.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11

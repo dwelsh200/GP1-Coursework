@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Asteroid" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gARAAAAAACABAiAAAAAAAEAAAAAAgAQAAAAGAAAAAAA=</HashCode>
+      <FileName>Asteroid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laser" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAACAAAgAAAAAAAAAAAAAAAAAEAAAGAAAAAAA=</HashCode>
+      <FileName>Laser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAsteroids" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACQAAAAAAgAAAAAAAAAAAAEAAAAAAEBGAAQAAQA=</HashCode>
+      <FileName>CAsteroids.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInvader" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAAAAAgAAAAAAAAAAAAAAAACACAAGAAAAAAA=</HashCode>
+      <FileName>CInvader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStar" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAQAQAAAAgAAAAAAAAAAAAAAAAAAAAAGAAQAAQA=</HashCode>
+      <FileName>CStar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ErrorLogger" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQgAAAAAAACQAAABACABABAAAAAEAAAA=</HashCode>
+      <FileName>ErrorLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTimer" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAQAAAAgAIAAAAAAIAAAAAAAAIAAAAggA=</HashCode>
+      <FileName>gametimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Invader" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQRAAAAAACAAAgAAAAAAAEAAAAAAACQAQAACAQAAAAA=</HashCode>
+      <FileName>Invader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyDrawEngine" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CREAILABADLJEkIAUJAAUIUAXgJhFBJkBEgMUDAgBFE=</HashCode>
+      <FileName>mydrawengine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyInputs" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAACAAwAKDAEAkAwCwggBBCFEBAKUjALAcUQjDnAAM=</HashCode>
+      <FileName>myinputs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPicture" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gRAQICAIAACAAAQERAAAQAQAUAAABAAAAAAIABAAAgA=</HashCode>
+      <FileName>mypicture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySound" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAACAAIAAAAIAAAAACAoAABABAEAAA=</HashCode>
+      <FileName>mysound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySoundEngine" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAIBABIAAAAQAAEADAAAAA=</HashCode>
+      <FileName>mysoundengine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerShip" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gARAIAQAACAAAgAAAAAAAUAAAAAAAAAAAAAGAAAABAA=</HashCode>
+      <FileName>PlayerShip.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stars" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gERAACQAACABAiAAAAAAAEAAAAAAAAAAAAAGAAAAAAA=</HashCode>
+      <FileName>Stars.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector2D" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gkAAAAQAAAAAEAAAAAQAAQEAAAAAAAAABQAgIADAAAA=</HashCode>
+      <FileName>vector2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ErrorType" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>errortype.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
